@@ -1,6 +1,6 @@
 
 # SQL Query
-``sql
+```sql
 SELECT
     pp.person_id,
     pp.employee_number,
